@@ -303,6 +303,9 @@ a {
 .social-icon:hover {
   --color5: #31D0AA;
 }
+.icon-svg:hover{
+  --color5: #31D0AA;
+}
 
 .header-container {
   max-width: 1440px;
@@ -403,6 +406,28 @@ a {
 .contact {
   display: inline;
   margin-right: 40px;
+}
+.portfolio-info{
+  margin-left: 16px;
+  margin-top: 15px;
+}
+.banking-1 p{
+  margin-top: 8px;
+}
+.cashless-2 p{
+  margin-top: 8px;
+}
+.meditation-3 p{
+  margin-top: 8px;
+}
+.taxi-4 p{
+  margin-top: 8px;
+}
+.screen-5 p{
+  margin-top: 8px;
+}
+.online-6 p{
+  margin-top: 8px;
 }
 .banking-1 {
   box-sizing: border-box;
